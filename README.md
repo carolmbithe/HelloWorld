@@ -1,4 +1,6 @@
 # HelloWorld
 introduction
-#project 
+# project title
 hello world
+# author
+carol
